@@ -30,7 +30,7 @@ useGSAP(() => {
     <div id="about" className=' min-h-screen w-screen'>
         <div className=' relative mb-8 mt-36 flex flex-col items-center gap-5'>
           <h2 className=' font-mono text-sm uppercase md:text-[15px]'>
-              Welcome Call Of Duty
+              Welcome to Call Of Duty World
           </h2>
           
  <AnimatedTitle
