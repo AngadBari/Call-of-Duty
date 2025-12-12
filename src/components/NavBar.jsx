@@ -69,13 +69,14 @@ const NavBar = () => {
               src='/img/logoC.jpg' 
               alt='logo' 
               className='w-10 rounded-full'/>
-
+           <a href="https://www.callofduty.com/mobile">
               <Button
                 id="Product-button"
-                title="Products"
+                title="Download CoD"
                 rightIcon={<TiLocationArrow/>}
                 containerClass=" bg-blue-50 md:flex hidden justifly-center item-center gap-1"
-              />
+                />
+            </a>
           </div>
           <div className="flex h-full items-center">
             <div className="hidden md:block">

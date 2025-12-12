@@ -2,6 +2,8 @@ import React from 'react'
 import Hero from './components/Hero'
 import About from './components/About'
 import NavBar from './components/NavBar'
+import Features from './components/Features'
+import Footer from './components/Footer'
 
 
 
@@ -11,6 +13,8 @@ const App = () => {
     <NavBar/>
     <Hero/>
     <About/>
+    <Features/>
+    <Footer/>
     </main>
   )
 }
